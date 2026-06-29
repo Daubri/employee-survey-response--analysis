@@ -4,12 +4,12 @@ Employee Survey Response Analysis
 An organization wanted to better understand employee satisfaction across departments and employee roles. Using employee survey response data, I built an interactive Excel dashboard to identify key satisfaction drivers, uncover trends, and provide actionable recommendations that could support management decisions.
 
 ## Dashboard Preview
-
-![Employee Survey Dashboard](Employee_Survey_Dashboard.png)
+![Employee Survey Dashboard](Employee_Survey_Dashboard.png.png)
 
 ⸻
 
 🎯 Business Problem
+
 The HR team needed answers to three key questions:
 
 * Which survey questions received the highest and lowest ratings?
