@@ -1,6 +1,4 @@
-
-
-
+![Employee Survey Dashboard](Employee_Survey_Dashboard.png)
 
 Employee Survey Response Analysis
 
